@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+#users{
+  display:flex;
+  justify-content: center;
+  flex-wrap:wrap;
+}
+.user{
+  margin:1em;
+  display:flex;
+  flex-direction:column;
+
+}
+nav li{
+  list-style:none;
+  display:inline-block;
+  margin:1em;
+}
