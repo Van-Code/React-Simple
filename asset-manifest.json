@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Van-Code/react-simple/static/css/main.eca56c4a.chunk.css",
+    "main.js": "/Van-Code/react-simple/static/js/main.3a65201d.chunk.js",
+    "main.js.map": "/Van-Code/react-simple/static/js/main.3a65201d.chunk.js.map",
+    "runtime-main.js": "/Van-Code/react-simple/static/js/runtime-main.21b34466.js",
+    "runtime-main.js.map": "/Van-Code/react-simple/static/js/runtime-main.21b34466.js.map",
+    "static/js/2.d3ad641e.chunk.js": "/Van-Code/react-simple/static/js/2.d3ad641e.chunk.js",
+    "static/js/2.d3ad641e.chunk.js.map": "/Van-Code/react-simple/static/js/2.d3ad641e.chunk.js.map",
+    "index.html": "/Van-Code/react-simple/index.html",
+    "precache-manifest.3ec8d1b8f6540d8f640b12a8489db5f9.js": "/Van-Code/react-simple/precache-manifest.3ec8d1b8f6540d8f640b12a8489db5f9.js",
+    "service-worker.js": "/Van-Code/react-simple/service-worker.js",
+    "static/css/main.eca56c4a.chunk.css.map": "/Van-Code/react-simple/static/css/main.eca56c4a.chunk.css.map",
+    "static/js/2.d3ad641e.chunk.js.LICENSE.txt": "/Van-Code/react-simple/static/js/2.d3ad641e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b34466.js",
+    "static/js/2.d3ad641e.chunk.js",
+    "static/css/main.eca56c4a.chunk.css",
+    "static/js/main.3a65201d.chunk.js"
+  ]
+}
